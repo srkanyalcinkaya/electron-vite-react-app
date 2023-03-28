@@ -53,13 +53,6 @@ Vite provides many useful features, such as: `TypeScript`, `TSX/JSX`, `CSS/JSON 
 
 > [Guide to disable typescript and remove dependencies](https://github.com/cawa-93/vite-electron-builder/discussions/339) 
 
-### Vue [![Vue version](https://img.shields.io/github/package-json/dependency-version/cawa-93/vite-electron-builder/dev/vue?label=%20&)][vue] (optional)
-
-- By default, web pages are built using [Vue]. However, you can easily change that. Or not use additional frameworks at
-  all.
-- Code formatting rules follow the latest Vue recommendations and best practices thanks to [eslint-plugin-vue].
-
-> [Find more forks 🔱 for others frameworks or setups](https://github.com/cawa-93/vite-electron-builder/discussions/categories/forks)
 
 ### Continuous Integration
 
@@ -278,21 +271,13 @@ See [Contributing Guide](contributing.md).
 
 [electron-builder]: https://github.com/electron-userland/electron-builder
 
-[vue]: https://github.com/vuejs/vue-next
-
-[vue-router]: https://github.com/vuejs/vue-router-next/
-
 [typescript]: https://github.com/microsoft/TypeScript/
 
 [playwright]: https://playwright.dev
 
 [vitest]: https://vitest.dev
 
-[vue-tsc]: https://github.com/johnsoncodehk/vue-tsc
-
-[eslint-plugin-vue]: https://github.com/vuejs/eslint-plugin-vue
-
 [cawa-93-github]: https://github.com/cawa-93/
 
 [cawa-93-sponsor]: https://www.patreon.com/Kozack/
-# electron-vite-react
+# electron-vite-react-tailwindcss
