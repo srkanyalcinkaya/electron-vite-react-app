@@ -1,8 +1,4 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua)
-
----
-
-# Vite Electron Builder Boilerplate
+# Vite Electron Builder React+Tailwindcss
 
 This is a template for secure electron applications. Written following the latest safety requirements, recommendations
 and best practices.
